@@ -24,3 +24,6 @@ This README outlines the details of collaborating on this Ember addon.
 * `ember build`
 
 For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
+=======
+# ember-cli-lorem-pixel
+An ember-cli addon for adding image placeholders from lorempixel.com
