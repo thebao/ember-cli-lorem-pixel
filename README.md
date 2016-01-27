@@ -5,7 +5,7 @@ This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
 
-`npm install ember-cli-lorem-pixel`
+`ember install ember-cli-lorem-pixel`
 
 ## Usage
 
